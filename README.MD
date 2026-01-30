@@ -1,3 +1,5 @@
+#revisado por Pedro Mollers
+
 # Portafolio Personal - Alex Oyarzun 💻
 
 Proyecto final para el módulo de HTML, CSS y Git del Bootcamp Full Stack de Desafío Latam.
